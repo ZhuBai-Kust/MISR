@@ -1,2 +1,2 @@
 # MISR
-The relevant code for our MISR will be uploaded after the article is published.
+Our code has been uploaded. Please directly run MISR_demo.m using MATLAB.
